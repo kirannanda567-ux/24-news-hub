@@ -1,0 +1,20 @@
+{
+  "overview": "A modern marketing website featuring a face design logo, a scrollable news and updates feed, a YouTube channel subscribe section, about section, newsletter signup, and responsive navigation.",
+  "features": [
+    "Face design logo in header",
+    "News & updates feed with article detail pages",
+    "YouTube channel follow section",
+    "About section",
+    "Newsletter signup",
+    "Responsive mobile navigation"
+  ],
+  "category": "marketing",
+  "tags": [
+    "marketing",
+    "news",
+    "youtube",
+    "logo",
+    "newsletter"
+  ],
+  "last_updated": "2026-05-18T02:27:57.644Z"
+}
